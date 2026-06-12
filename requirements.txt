@@ -1,0 +1,6 @@
+python-telegram-bot==21.6
+aiohttp
+pydantic==2.7.4
+pyrogram
+tgcrypto
+
